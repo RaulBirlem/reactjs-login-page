@@ -1,6 +1,8 @@
-# reactjs-login-page
-Começaremos do absoluto zero, criando o nosso projeto de React com Vite. Depois realizaremos um reset, excluindo tudo que não vamos utilizar da base do React, e criar nossa estrutura do projeto de pastas e arquivos.
+# React + Vite
 
-Modelaremos então o componente principal de formulário de login, e criaremos a funcionaliade de envio de form com o evento onSubmit, mapeando os dados do usuário com onChange em cada campo e salvando no hook useState.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Por fim faremos a estilização do projeto com CSS, para criar o efeito de glass com CSS, que é um recurso bem interessante e também simples de fazer.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
