@@ -33,6 +33,8 @@ const Login = () => {
             onChange={(e) => setUsername(e.target.value)}/>
             <FaUser className='icon' />
             </div>
+
+            
             <div className='input-field'>
             <input type="password" placeholder='Senha' 
             onChange={(e) => setPassword(e.target.value)}/>
